@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Carregar os dados
-file_path = 'C:/Users/caio.brettas/Documents/GIT/modulo-x/ecommerce_preparados.csv'
+file_path = '/ecommerce_preparados.csv'
 data = pd.read_csv(file_path)
 
 # Configuração de estilo
